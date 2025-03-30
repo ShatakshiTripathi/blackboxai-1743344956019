@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Ayurvedic Treatment</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="explore_treatments">Explore Treatments</string>
+    <string name="causes">Causes</string>
+    <string name="symptoms">Symptoms</string>
+    <string name="remedies">Remedies</string>
+    <string name="search_treatments">Search treatments...</string>
+    <string name="share_treatment">Share Treatment</string>
+    <string name="treatment_not_available">Treatment data not available</string>
+    <string name="symptom_checker">Symptom Checker</string>
+    <string name="welcome_message">Welcome to Ayurvedic Treatment App</string>
+    
+    <!-- Error messages -->
+    <string name="error_email_required">Email is required</string>
+    <string name="error_password_required">Password is required</string>
+    <string name="error_password_length">Password must be at least 6 characters</string>
+    <string name="login_failed">Authentication failed: %1$s</string>
+    <string name="login_successful">Login successful</string>
+    
+    <!-- Placeholder texts -->
+    <string name="hint_email">Enter your email</string>
+    <string name="hint_password">Enter your password</string>
+</resources>
