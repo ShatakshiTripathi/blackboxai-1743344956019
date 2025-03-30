@@ -1,0 +1,27 @@
+<resources>
+    <!-- Base application theme -->
+    <style name="Theme.AyurvedicApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primaryDark</item>
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorSecondaryVariant">@color/secondaryDark</item>
+        <item name="android:statusBarColor">@color/primaryDark</item>
+        <item name="android:navigationBarColor">@color/primaryDark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorOnSecondary">@color/textPrimary</item>
+        <item name="android:textColorPrimary">@color/textPrimary</item>
+        <item name="android:textColorSecondary">@color/textSecondary</item>
+    </style>
+
+    <!-- Text styles -->
+    <style name="TextAppearance.AyurvedicApp.Headline" parent="TextAppearance.MaterialComponents.Headline5">
+        <item name="android:textColor">@color/textPrimary</item>
+    </style>
+
+    <!-- Button styles -->
+    <style name="Widget.AyurvedicApp.Button" parent="Widget.MaterialComponents.Button">
+        <item name="android:textColor">@color/white</item>
+        <item name="backgroundTint">@color/primary</item>
+        <item name="cornerRadius">8dp</item>
+    </style>
+</resources>
